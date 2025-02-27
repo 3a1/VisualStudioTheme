@@ -12,7 +12,7 @@ My personal Visual Studio extensions/settings
 
 ![Power Mode](https://github.com/user-attachments/assets/48ed23a3-26d3-4b33-8b3b-aa1879a1147f)  
 
-I've rebuilt this extension with some custom tweaks. If you experience lagging, consider rebuilding it with fewer particles or adjusting settings for better performance.  
+I've rebuilt this extension with some custom tweaks. If you experience lagging, consider rebuilding it with fewer particles for better performance.  
 
 ---
 
