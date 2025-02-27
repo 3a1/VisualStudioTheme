@@ -1,4 +1,4 @@
-# Visual Studio Theme Setup  
+# Visual Studio Theme
 
 My personal Visual Studio extensions/settings
 
@@ -32,5 +32,3 @@ I've rebuilt this extension with some custom tweaks. If you experience lagging, 
 - [FileIcons](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons) 
 - [AddNewFile](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile64)
 - [CodeMaid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaidVS2022)
-
----
