@@ -8,7 +8,7 @@ My personal Visual Studio extensions/settings
 ---
 
 ## Power Mode  
-[PowerMode Extension](https://marketplace.visualstudio.com/items?itemName=BigEgg.PowerMode)  
+[PowerMode](https://marketplace.visualstudio.com/items?itemName=BigEgg.PowerMode)  
 
 ![Power Mode](https://github.com/user-attachments/assets/48ed23a3-26d3-4b33-8b3b-aa1879a1147f)  
 
